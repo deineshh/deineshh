@@ -95,5 +95,5 @@ Worked directly with stakeholders to clarify requirements and deliver functional
 
 Open to remote .NET opportunities.
 
-- LinkedIn: ``
+- LinkedIn: `linkedin.com/in/deinesh-trombola-6b347a27b`
 - Email: `tramboladenes@gmail.com`
