@@ -51,7 +51,7 @@ A backend-driven system inspired by Spotify architecture concepts.
 
 ---
 
-### Clean Architecture API
+### Workout Tracker (Clean Architecture API)
 A structured ASP.NET Core API demonstrating:
 - Proper layer separation
 - Dependency inversion
@@ -66,7 +66,8 @@ Built multiple real-world .NET applications outside formal employment, including
 - Backend APIs
 - Database-centric systems
 - Desktop applications
-- Business logic implementation
+- Business logic implementation.
+
 Worked directly with stakeholders to clarify requirements and deliver functional systems.
 
 ---
